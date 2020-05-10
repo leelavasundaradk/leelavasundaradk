@@ -20,7 +20,7 @@ global_variables() {
     global_software_version="2.8"
 
     # Blog title
-    global_title="Leela's Know-How"
+    global_title="Know-How"
     # The typical subtitle for each blog
     global_description="Insights"
     # The public base URL for this blog
