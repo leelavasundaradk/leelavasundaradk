@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<channel><title>Leela's Know-How</title><link>http://leelavasundaradk.local/index.html</link>
+<channel><title>Leela's Know-How</title><link>http://leelavasundaradk.github.io/index.html</link>
 <description>Insights</description><language>en</language>
-<lastBuildDate>Sun, 10 May 2020 15:08:10 +0530</lastBuildDate>
-<pubDate>Sun, 10 May 2020 15:08:10 +0530</pubDate>
-<atom:link href="http://leelavasundaradk.local/feed.rss" rel="self" type="application/rss+xml" />
+<lastBuildDate>Sun, 10 May 2020 15:17:35 +0530</lastBuildDate>
+<pubDate>Sun, 10 May 2020 15:17:35 +0530</pubDate>
+<atom:link href="http://leelavasundaradk.github.io/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Thank you
 </title><description><![CDATA[
@@ -16,9 +16,11 @@ as you exit your editor.</p>
 
 
 
+
+
 <!-- text end -->
-]]></description><link>http://leelavasundaradk.local/thank-you.html</link>
-<guid>http://leelavasundaradk.local/./thank-you.html</guid>
+]]></description><link>http://leelavasundaradk.github.io/thank-you.html</link>
+<guid>http://leelavasundaradk.github.io/./thank-you.html</guid>
 <dc:creator>Leela Vasundhara</dc:creator>
 <pubDate>Sun, 10 May 2020 15:03:58 +0530</pubDate></item>
 <item><title>
@@ -32,9 +34,11 @@ Hello World
 
 
 
+
+
 <!-- text end -->
-]]></description><link>http://leelavasundaradk.local/hello-world.html</link>
-<guid>http://leelavasundaradk.local/./hello-world.html</guid>
+]]></description><link>http://leelavasundaradk.github.io/hello-world.html</link>
+<guid>http://leelavasundaradk.github.io/./hello-world.html</guid>
 <dc:creator>Leela Vasundhara</dc:creator>
 <pubDate>Sun, 10 May 2020 15:02:02 +0530</pubDate></item>
 </channel></rss>
