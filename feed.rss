@@ -2,9 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Know-How</title><link>http://leelavasundaradk.github.io/index.html</link>
 <description>Insights</description><language>en</language>
-<lastBuildDate>Mon, 11 May 2020 20:30:00 +0530</lastBuildDate>
-<pubDate>Mon, 11 May 2020 20:30:00 +0530</pubDate>
+<lastBuildDate>Mon, 11 May 2020 20:51:08 +0530</lastBuildDate>
+<pubDate>Mon, 11 May 2020 20:51:08 +0530</pubDate>
 <atom:link href="http://leelavasundaradk.github.io/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+walking
+</title><description><![CDATA[
+
+<p>walking.. <b>html</b> blog post. The process will continue as soon
+as you exit your editor.</p>
+
+<p>Tags: <a href='tag_health.html'>health</a>, <a href='tag_refreshment.html'>refreshment</a></p>
+<!-- text end -->
+]]></description><link>http://leelavasundaradk.github.io/walking.html</link>
+<guid>http://leelavasundaradk.github.io/./walking.html</guid>
+<dc:creator>Leela Vasundhara</dc:creator>
+<pubDate>Mon, 11 May 2020 20:51:03 +0530</pubDate></item>
 <item><title>
 Hello World
 </title><description><![CDATA[
@@ -28,5 +41,5 @@ Hello World
 ]]></description><link>http://leelavasundaradk.github.io/hello-world.html</link>
 <guid>http://leelavasundaradk.github.io/./hello-world.html</guid>
 <dc:creator>Leela Vasundhara</dc:creator>
-<pubDate>Sun, 10 May 2020 15:02:02 +0530</pubDate></item>
+<pubDate>Mon, 11 May 2020 20:47:12 +0530</pubDate></item>
 </channel></rss>
